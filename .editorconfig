@@ -1,0 +1,10 @@
+# See editorconfig.org
+root = ture
+
+[*]
+charset = urf-8
+end_of_line = lf
+indent_size = 2
+indent_type = space
+insert_final_newline = true
+trim_trailing_whitespace = true
